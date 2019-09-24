@@ -1,4 +1,4 @@
-# ThroughputMG21v21230
+# ThroughputMG13v21230
 
 Silicon Labs Throughput App running on the EFR32MG21A010F1024IM32, WSTK + BRD4104A with Gecko SDK version 2.12.3.0
 
